@@ -135,3 +135,9 @@ Representing Users with Diverse Interests - 1711.08379.pdf
 
 kdd_af15.pdf - One-Pass Ranking Models for
 Low-Latency Product Recommendations
+
+https://arxiv.org/pdf/1703.05192.pdf - Learning to Discover Cross-Domain Relations
+with Generative Adversarial Networks - 1703.05192.pdf
+
+https://arxiv.org/pdf/1612.03242.pdf - StackGAN: Text to Photo-realistic Image Synthesis
+with Stacked Generative Adversarial Network - 1612.03242.pdf
