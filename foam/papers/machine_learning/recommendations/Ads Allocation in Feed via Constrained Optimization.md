@@ -2,6 +2,8 @@
 
 ## Ads Allocation in Feed via Constrained Optimization
 
+[link to article](../../../../machine_learning/recommendations/Ads\ Allocation\ in\ Feed\ via\  Constrained\  Optimization.pdf)
+
 https://www.kdd.org/kdd2020/accepted-papers/view/ads-allocation-in-feed-via-constrained-optimization 
 
 ![](../../../attachments/2021-04-18-21-12-56.png)
