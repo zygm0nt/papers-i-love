@@ -80,9 +80,6 @@ Recommendations at Scale - 1606.07154.pdf
 Scaling Spark in the Real World:
 Performance and Usability - vldb_spark.pdf
 
-Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services
-osdi16-veeraraghavan.pdf
-
 eurosys16-final29.pdf - The Linux Scheduler: a Decade of Wasted Cores
 
 oopsla2004.pdf - Mock Roles, not Objects 
