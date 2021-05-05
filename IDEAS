@@ -1,3 +1,9 @@
 - remove duplicated papers
-- have symbolic links refer to documents in a single bin directory
++ have symbolic links refer to documents in a single bin directory
 - have top-5 papers from different branches
+
+- a simple script to boostrap a given paper into the repository
+   - fetch bin file
+   - create an empty template in foam structure
+- fetch metadata
+
